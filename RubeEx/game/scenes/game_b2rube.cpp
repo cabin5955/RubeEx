@@ -94,7 +94,7 @@ void GameB2Rube::OnEnter(){
     rubeShader.use();
     rubeShader.setMat4("projection", rubeProjection);
     
-    m_rubeParameters.push_back( RubeParameters( "image_test.json", 30, true ) );
+    m_rubeParameters.push_back( RubeParameters( "bike.json", 30, true ) );
     
     b2dJson json;
     std::string errorMsg;
