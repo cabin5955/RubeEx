@@ -1,6 +1,6 @@
 ## RubeEx
-基于LibEx代码在iOS平台上实现一个Box2D场景查看器(Box2D Viewer)
-+    [R.U.B.E（ Really Useful Box2D Editor](https://www.iforce2d.net/rube/)
+基于LibEx代码在iOS平台上实现一个Box2D场景查看器(Box2D Viewer)。
+[R.U.B.E (Really Useful Box2D Editor)](https://www.iforce2d.net/rube/)
 是指由Chris Campbell开发的一款Box2D图形编辑软件
 
 ### Screenshots
