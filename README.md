@@ -4,7 +4,7 @@
 是指由Chris Campbell开发的一款Box2D图形编辑软件
 
 ### Screenshots
-![screenshot](https://raw.githubusercontent.com/cabin5955/RubeEx/master/images/tank.gif "screenshot")
+![](https://raw.githubusercontent.com/cabin5955/RubeEx/master/images/tank.gif)
 
 ### 上手指南
 以下指南将帮助你在本地机器上安装和运行该项目，进行开发和测试。
